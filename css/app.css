@@ -1,0 +1,106 @@
+#cover-img {
+    background-image:
+        url("https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/f62c6a76017779.5c5cf3fed0dac.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+body {
+    font-family: "Roboto";
+    /* color: white; */
+}
+
+h1 {
+    color: #ffffff;
+}
+
+h3 {
+    color: #ffffff;
+}
+
+
+/* #cover-img {
+    background: url(https://mdbootstrap.com/img/Photos/Horizontal/Nature/full%20page/img(11));
+    background-size: cover;
+    background-position: center;
+} */
+
+.content {
+    padding-top: 15%;
+    text-align: center;
+}
+
+#nav1 {
+    background-color: rgb(255, 255, 255);
+    opacity: 0.8;
+    filter: (opacity=50);
+}
+
+
+
+.row {
+    padding-bottom: 10%;
+}
+
+.cover-hr {
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    /* border-bottom: 1px solid rgba(0, 0, 0, 0.2); */
+}
+
+h3 {
+    font-weight: 300;
+}
+
+.img-gallary {
+    margin-top: 20px;
+    /* max-width: 1000px;
+    width: 100%;
+    margin: 0 auto; */
+}
+
+.thumbnail {
+    border: none;
+    padding: 0;
+}
+
+.project-name: {
+    text: #3d3d3d;
+    color: #3d3d3d;
+}
+
+.col-lg-4:hover {
+    opacity: 0.8;
+}
+
+/* .img-test {
+    background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/17f62a76017779.5c5d939a69b4c.jpg)
+} */
+
+.title {
+    padding-top: 80%;
+    background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/17f62a76017779.5c5d939a69b4c.jpg);
+    background-size: cover;
+
+}
+
+p {
+    background-color: rgba(0, 0, 0, 0.185);
+    font-size: 1.4em;
+    font-weight: 300;
+    color: white;
+    text-align: right;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+p:hover {
+    text-decoration: none;
+}
+
+i {
+    color: rgba(0, 0, 0, 0.473);
+    font-weight: 700;
+    font-size: 0.7em;
+}
