@@ -1,6 +1,6 @@
 #cover-img {
     background-image:
-        url("https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/f62c6a76017779.5c5cf3fed0dac.jpg");
+        url("https://mir-s3-cdn-cf.behance.net/project_modules/fs/090bb876017779.5c63558800fa1.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -43,7 +43,7 @@ h3 {
 }
 
 .cover-hr {
-    width: 400px;
+    width: 600px;
     border-top: 1px solid #f8f8f8;
     margin-bottom: 0;
     /* border-bottom: 1px solid rgba(0, 0, 0, 0.2); */
